@@ -1,0 +1,7 @@
+The accepted animal list = ['Cat=0', 'Dog=1', 'Elephant=2', 'Tiger=3', 'Lion=4', 'Giraffe=5', 'Zebra=6', 'Kangaroo=7', 'Panda=8', 'Koala=9'].
+
+First generate up_letter-digit-low_letter, where up_letter is an uppercase letter, low_letter is a lowercase letter and the digit is selected from 0 to 9, each part should be randomly sampled.
+
+Then randomly sample a animal from the list, only return the [animal_number] in the list.
+
+The format is up_letter-digit-low_letteranimal_number.(Only return up_letter-digit-low_letteranimal_number, no other words. There are no other words between up_letter-digit-low_letter and animal_number. i.e. A-5-p2)

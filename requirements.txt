@@ -1,0 +1,6 @@
+mpmath
+numpy
+transformers
+ujson
+torch
+scipy

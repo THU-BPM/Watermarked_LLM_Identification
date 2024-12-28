@@ -1,0 +1,7 @@
+The accepted fruit list = ['Apple=9', 'Banana=8', 'Cherry=7', 'Date=6', 'Elderberry=5', 'Fig=4', 'Grape=3', 'Honeydew=2', 'Kiwi=1', 'Lemon=0'].
+
+First generate up_letter-digit-low_letter, where up_letter is an uppercase letter, low_letter is a lowercase letter and the digit is selected from 0 to 9, each part should be randomly sampled.
+
+Then randomly sample a fruit from the list, only return the [fruit_number] in the list.
+
+The format is up_letter-digit-low_letterfruit_number. (Only return up_letter-digit-low_letterfruit_number, no other words. There are no other words between up_letter-digit-low_letter and fruit_number. i.e. A-5-p2)

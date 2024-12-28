@@ -1,0 +1,51 @@
+{
+    "unwatermarked": {
+        "fill_length": 50
+    },
+    "aar": {
+        "hash_key": 15485863,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "dip": {
+        "key": 42,
+        "alpha": 0.45,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "kgw": {
+        "hash_key": 15485863,
+        "scheme": "time",
+        "gamma": 0.5,
+        "delta": 2.0,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "kgwfix": {
+        "hash_key": 15485863,
+        "seed": 42,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "kth": {
+        "key": 42,
+        "keylen": 420,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "its": {
+        "key": 42,
+        "keylen": 420,
+        "prefix_length": 4,
+        "fill_length": 50
+    },
+    "waterbag": {
+        "hash_key": 15485863,
+        "prefix_length": 4,
+        "gamma": 0.5,
+        "delta": 2.0,
+        "scheme": "time",
+        "keylen": 4,
+        "fill_length": 50
+    }
+}

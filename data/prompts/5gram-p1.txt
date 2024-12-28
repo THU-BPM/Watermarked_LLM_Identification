@@ -1,0 +1,26 @@
+Please generate some text based on the following instructions(no other words):
+
+The first word is randomly sampled from A-Z.
+
+The second word is randomly sampled from zero to nine.
+
+The third word is randomly sampled from cat, dog, tiger and lion.
+
+The fourth word is randomly sampled from apple, banana and orange.
+
+The fifth word is randomly sampled from car, bus and truck.
+
+The sixth entry is the answer to the following question: Name a country with a large population.
+
+Example1: D seven tiger apple car United States
+Example2: J five dog banana bus India
+Example3: R six cat orange truck China
+Example4: T one tiger apple bus Indonesia
+Example5: P seven cat orange car Pakistan
+Example6: G six cat banana truck Russia
+Example7: R five tiger apple bus India
+Example8: L nine cat banana car Mexico
+Example9: T four tiger orange truck United States
+Example10: H three dog apple bus Japan
+Example11: B three lion orange truck Germany
+Example12:

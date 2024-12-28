@@ -1,0 +1,7 @@
+*.pickle
+data/results/prob1/*.json
+data/results/prob2/*.json
+data/results/csv/*
+*.ipynb
+__pycache__
+

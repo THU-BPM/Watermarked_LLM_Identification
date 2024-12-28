@@ -1,0 +1,22 @@
+Please generate some text based on the following instructions(no other words):
+
+The first word is randomly sampled from A-Z.
+
+The second word is randomly sampled from zero to nine.
+
+The third word is randomly sampled from cat, dog, tiger and lion.
+
+Then add a seperator | and Answer the following question: Name a country with a large population.
+
+Example1: D seven tiger | United States
+Example2: J five dog | India
+Example3: R six cat | China
+Example4: T one tiger | Indonesia
+Example5: P seven cat | Pakistan
+Example6: G six cat | Russia
+Example7: R five tiger | India
+Example8: L nine cat | Mexico
+Example9: T four tiger | United States
+Example10: H three dog | Japan
+Example11: B three lion | Germany
+Example12:
